@@ -1,2 +1,2 @@
 # my-macromeals-website
-My macromeals website.
+Here is Riley's macromeals website. Just for fun.
